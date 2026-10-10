@@ -20,13 +20,19 @@
 
 <h1 align="center">✦ ABOUT ME ✦</h1>
 
-<p align="center">
-  <strong><big>BCA Computer Science Graduate · First Division with Honours</big></strong><br/>
-  <strong>CGPA: 8.10 / 10.00</strong>
-</p>
+<div align="center">
+
+<h2>BCA COMPUTER SCIENCE GRADUATE</h2>
+
+<h3>First Division with Honours &nbsp;|&nbsp; CGPA: 8.10 / 10.00</h3>
+
+</div>
+
+<br/>
 
 <p align="center">
-  I'm <strong>Sarish Adeel</strong>, a Computer Science graduate from Integral University, Lucknow, with hands-on experience in Data Analytics and Data Engineering. I enjoy transforming raw data into reliable reports, meaningful business insights, and practical data solutions.
+  <strong><big>I'm Sarish Adeel</big></strong><br/><br/>
+  <big>A Computer Science graduate from Integral University, Lucknow, with hands-on experience in Data Analytics and Data Engineering. I have worked on Power BI dashboards, monthly business reports, data cleaning, SQL analysis, and PySpark-based ETL workflows. I enjoy turning raw data into clear insights and practical solutions that support better business decisions.</big>
 </p>
 
 <table>
@@ -207,37 +213,6 @@ A Python notebook project focused on cleaning, exploring, and visualising food a
 </div>
 
 <p align="center"><em>Visit my GitHub profile to explore repositories and the native contribution calendar.</em></p>
-
----
-
-<h1 align="center">✦ CERTIFICATIONS & EDUCATION ✦</h1>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🎓 EDUCATION</h3>
-
-<strong>Bachelor of Computer Applications (BCA)</strong><br/>
-Computer Science · Integral University, Lucknow<br/>
-<sub>2023 – 2026</sub>
-
-<br/><br/>
-
-<strong>CGPA: 8.10 / 10.00</strong><br/>
-First Division with Honours
-
-</td>
-<td width="50%" valign="top">
-
-<h3>📜 CERTIFICATIONS</h3>
-
-- AI – Data Engineering Analyst — Skill India Digital Hub / NASSCOM (August 2026)
-- Deloitte – Data Analytics Job Simulation (April 2025)
-
-</td>
-</tr>
-</table>
 
 ---
 
