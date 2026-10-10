@@ -1,73 +1,294 @@
+<!-- ===================================================== -->
+<!--                  PROFILE HEADER                       -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-# Sarish Adeel
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sarish%20Adeel&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Data%20Engineering%20%7C%20AI%2FML&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Sarish Adeel profile header"/>
 
-### Data Analytics · Data Engineering · Python · SQL · AI/ML
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Data+Analytics+%26+Engineering;Python+%7C+SQL+%7C+Power+BI;Building+Data-Driven+Applications;Turning+Data+Into+Insights" alt="Animated typing introduction"/>
+</a>
 
-I build data-focused projects that turn raw information into useful analysis, dashboards, and AI-powered applications.
+<br/>
 
-[GitHub](https://github.com/sarishadeel206) · [LinkedIn](https://www.linkedin.com/in/sarish-adeel-245346326/)
+<a href="https://github.com/sarishadeel206">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/sarish-adeel-245346326/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sarishadeel206&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## About Me
+<!-- ===================================================== -->
+<!--                      ABOUT ME                         -->
+<!-- ===================================================== -->
 
-I'm a developer focused on **data analytics, data engineering, and applied AI/ML**. My public projects range from Python notebooks and machine learning applications to data warehouse workflows, REST APIs, and Power BI dashboards.
+## 👨‍💻 About Me
 
-I enjoy working across the data lifecycle: preparing datasets, exploring patterns, building analytical models, and presenting results in practical tools.
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
 
-## Technologies
+Hi! I'm **Sarish Adeel**, a computer science graduate interested in building practical solutions with data, analytics, and machine learning.
 
-The tools below are reflected in my public projects and stated areas of focus.
+- 🎓 Computer Science graduate from Integral University, Lucknow.
+- 📊 Interested in Data Analytics and Business Intelligence.
+- ⚙️ Exploring Data Engineering with PySpark and Databricks.
+- 🤖 Building Python-based machine learning and AI applications.
+- 📈 Working with SQL, Power BI, data pipelines, and dashboards.
+- 🚀 Always learning, experimenting, and building projects.
 
-**Data & machine learning**  
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"> <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"> <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"> <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+<br clear="right"/>
 
-**Data engineering & applications**  
-<img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"> <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"> <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
+> 💡 My goal is to transform raw data into meaningful insights and useful applications.
 
-**Analytics & visualization**  
-<img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111"> <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"> <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square">
+---
 
-## Featured Projects
+<!-- ===================================================== -->
+<!--                    TECH STACK                         -->
+<!-- ===================================================== -->
 
-### [Wealth Management Analytics](https://github.com/sarishadeel206/Wealth-Management-Analytics)
-An end-to-end analytics platform with Databricks and PySpark data processing, dimensional tables, data marts, REST APIs, Power BI dashboards, and AI-assisted reporting.
+## 🛠️ Tech Stack & Tools
 
-**Stack:** Databricks · PySpark · Delta Lake · Node.js · Express · Power BI
+### 💻 Programming Languages
 
-### [AI Email Campaign Agent](https://github.com/sarishadeel206/AI_Email_Campaign_Agent)
-A Streamlit application that segments customer data and generates personalized marketing emails with an LLM API, while storing campaign history in SQLite.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Programming languages"/>
+</p>
 
-**Stack:** Python · Streamlit · Pandas · OpenRouter · SQLite
+### 📊 Data Analytics & Machine Learning
 
-### [Online Retail Recommendation System](https://github.com/sarishadeel206/online-retail-recommendation-system)
-An online retail analysis project covering data preparation, exploratory analysis, sales trends, and product recommendations with collaborative filtering and cosine similarity.
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+</p>
 
-**Stack:** Python · Pandas · NumPy · scikit-learn · Matplotlib · Seaborn
+### ⚙️ Data Engineering & Databases
 
-### [Power BI Sales Dashboard](https://github.com/sarishadeel206/POWERBI-DASHBOARD)
-An interactive dashboard for reviewing sales performance, product trends, and business insights.
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge" alt="Delta Lake"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
 
-**Stack:** Power BI · Microsoft Excel
+### 🌐 Development & Tools
 
-### [Health & Nutrition Data Analysis](https://github.com/sarishadeel206/Health-Nutrition-Data-Analysis)
-A Python notebook project analyzing food and nutrition data through cleaning, exploratory analysis, and visualizations.
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,react,nodejs" alt="Development tools"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
 
-**Stack:** Python · Pandas · Matplotlib · Google Colab
+---
 
-### [Breast Cancer Prediction](https://github.com/sarishadeel206/Breast-Cancer-Prediction-using-Machine-Learning)
-A machine learning application that uses an SVM model to classify tumors as benign or malignant, with preprocessing, exploratory analysis, and a Tkinter interface.
+<!-- ===================================================== -->
+<!--                  FEATURED PROJECTS                     -->
+<!-- ===================================================== -->
 
-**Stack:** Python · scikit-learn · Pandas · NumPy · Tkinter
+## 🚀 Featured Projects
 
-## GitHub Activity
+<table>
+<tr>
+<td width="50%" valign="top">
 
-See my [GitHub profile](https://github.com/sarishadeel206) for GitHub's native contribution graph and current public activity. GitHub renders this graph below the profile README.
+### 💎 Wealth Management Analytics
 
-## Connect
+An end-to-end data analytics and engineering project focused on data processing, dimensional modelling, data marts, APIs, and business intelligence.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarish-adeel-245346326/)
-[![GitHub](https://img.shields.io/badge/GitHub-View%20profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sarishadeel206)
+**Tech Stack**
+
+`Databricks` `PySpark` `Delta Lake` `SQL` `Power BI`
+
+<a href="https://github.com/sarishadeel206/Wealth-Management-Analytics">
+<img src="https://img.shields.io/badge/Explore_Project-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Explore Wealth Management Analytics"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Email Campaign Agent
+
+A Python and Streamlit application for generating personalized email campaigns using customer data and an LLM API.
+
+**Tech Stack**
+
+`Python` `Pandas` `Streamlit` `OpenRouter` `SQLite`
+
+<a href="https://github.com/sarishadeel206/AI_Email_Campaign_Agent">
+<img src="https://img.shields.io/badge/Explore_Project-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Explore AI Email Campaign Agent"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ Online Retail Recommendation System
+
+A retail analytics project covering data preparation, exploratory analysis, sales patterns, and product recommendations.
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Scikit-learn`
+
+<a href="https://github.com/sarishadeel206/online-retail-recommendation-system">
+<img src="https://img.shields.io/badge/Explore_Project-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Explore Recommendation System"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Power BI Sales Dashboard
+
+An interactive business intelligence dashboard designed to explore sales performance, product trends, and business insights.
+
+**Tech Stack**
+
+`Power BI` `Excel` `Data Visualization`
+
+<a href="https://github.com/sarishadeel206/POWERBI-DASHBOARD">
+<img src="https://img.shields.io/badge/Explore_Project-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Explore Power BI Dashboard"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 Breast Cancer Prediction
+
+A machine learning application using an SVM classifier to predict benign or malignant breast tumors, with a Tkinter interface.
+
+**Tech Stack**
+
+`Python` `SVM` `Scikit-learn` `Tkinter`
+
+<a href="https://github.com/sarishadeel206/Breast-Cancer-Prediction-using-Machine-Learning">
+<img src="https://img.shields.io/badge/Explore_Project-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Explore Breast Cancer Prediction"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🥗 Health & Nutrition Data Analysis
+
+A data analysis project exploring food and nutrition datasets through data cleaning, exploratory analysis, and visualizations.
+
+**Tech Stack**
+
+`Python` `Pandas` `Matplotlib` `Jupyter Notebook`
+
+<a href="https://github.com/sarishadeel206/Health-Nutrition-Data-Analysis">
+<img src="https://img.shields.io/badge/Explore_Project-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Explore Health and Nutrition Analysis"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/sarishadeel206?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-View_More_Projects-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
+  </a>
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--                   GITHUB STATISTICS                   -->
+<!-- ===================================================== -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/sarishadeel206">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sarishadeel206&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/sarishadeel206">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarishadeel206&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/sarishadeel206">
+  <img src="https://streak-stats.demolab.com?user=sarishadeel206&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/sarishadeel206">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarishadeel206&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub contribution activity graph"/>
+</a>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                    ACHIEVEMENTS                       -->
+<!-- ===================================================== -->
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/sarishadeel206">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarishadeel206&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="95%" alt="GitHub profile trophies"/>
+</a>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                   CONNECT WITH ME                     -->
+<!-- ===================================================== -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in connecting with people who work in data analytics, data engineering, and AI.
+
+<br/><br/>
+
+<a href="https://github.com/sarishadeel206">
+  <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sarish-adeel-245346326/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+</a>
+
+<br/><br/>
+
+⭐ If you find my projects interesting, feel free to explore my repositories!
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 Keep Learning. Keep Building. Keep Growing.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="Decorative footer"/>
+
+</div>
