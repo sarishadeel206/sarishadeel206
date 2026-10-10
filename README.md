@@ -104,26 +104,32 @@
 ---
 
 <h1 align="center">✦ FEATURED PROJECTS ✦</h1>
-<p align="center"><em>Selected work in analytics, data platforms, dashboards, and practical applications.</em></p>
+<p align="center"><big>Three projects, three different strengths — Data Engineering, Python Applications, and Frontend Development.</big></p>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-<h2>💎 Wealth Management Analytics</h2>
+<h2 align="center">🥇 FLAGSHIP PROJECT · WEALTH MANAGEMENT ANALYTICS</h2>
+<p align="center"><strong>DATA ENGINEERING & BUSINESS INTELLIGENCE</strong></p>
 
-An end-to-end data engineering and analytics platform with ETL workflows, dimensional models, Data Marts, Delta Lake storage, REST APIs, and Power BI reporting.
+An end-to-end data engineering and analytics platform built around data processing, ETL workflows, dimensional modelling, Data Marts, Delta Lake storage, REST APIs, and Power BI reporting.
 
-<strong>TECHNOLOGIES</strong><br/>
-<code>Databricks</code> <code>PySpark</code> <code>Spark SQL</code> <code>Delta Lake</code> <code>Power BI</code>
+<p align="center">
+  <code>Databricks</code> &nbsp; <code>PySpark</code> &nbsp; <code>Spark SQL</code> &nbsp; <code>Delta Lake</code> &nbsp; <code>Power BI</code> &nbsp; <code>REST APIs</code>
+</p>
 
-<br/><br/>
-<a href="https://github.com/sarishadeel206/Wealth-Management-Analytics"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View Wealth Management Analytics"/></a>
+<p align="center">
+  <a href="https://github.com/sarishadeel206/Wealth-Management-Analytics"><img src="https://img.shields.io/badge/EXPLORE%20FLAGSHIP%20PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore Wealth Management Analytics"/></a>
+</p>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-<h2>✉️ AI Email Campaign Agent</h2>
+<h2>🥈 AI Email Campaign Agent</h2>
+<p><strong>PYTHON & APPLICATION DEVELOPMENT</strong></p>
 
 A Streamlit application that processes customer CSV data and helps generate personalised email campaigns, with campaign history stored in SQLite.
 
@@ -134,60 +140,78 @@ A Streamlit application that processes customer CSV data and helps generate pers
 <a href="https://github.com/sarishadeel206/AI_Email_Campaign_Agent"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View AI Email Campaign Agent"/></a>
 
 </td>
+<td width="50%" valign="top">
+
+<h2>🥉 E-Commerce Website</h2>
+<p><strong>FRONTEND DEVELOPMENT</strong></p>
+
+A modern, responsive shopping website featuring product cards, interactive cart controls, quantity updates, dynamic totals, customer reviews, and mobile-friendly navigation.
+
+<strong>TECHNOLOGIES</strong><br/>
+<code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Swiper.js</code>
+
+<br/><br/>
+<a href="https://github.com/sarishadeel206/-E-COMMERCE-WEBSITE"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View E-Commerce Website"/></a>
+
+</td>
 </tr>
+</table>
+
+---
+
+<h2 align="center">✦ MORE PROJECTS ✦</h2>
+<p align="center">Explore more work across data analysis, dashboards, and Python applications.</p>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-<h2>🛍️ Online Retail Recommendation</h2>
+<h3>🛍️ Online Retail Recommendation System</h3>
 
-A retail data project covering data preparation, exploratory analysis, sales patterns, and product recommendations using similarity techniques.
+Retail data preparation, exploratory analysis, sales patterns, and product recommendations using similarity techniques.
 
-<strong>TECHNOLOGIES</strong><br/>
 <code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>scikit-learn</code>
 
 <br/><br/>
-<a href="https://github.com/sarishadeel206/online-retail-recommendation-system"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View Online Retail Recommendation System"/></a>
+<a href="https://github.com/sarishadeel206/online-retail-recommendation-system">View repository →</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h2>📊 Power BI Sales Dashboard</h2>
+<h3>📊 Power BI Sales Dashboard</h3>
 
 An interactive dashboard for exploring sales performance, product trends, and business insights through visual reporting.
 
-<strong>TECHNOLOGIES</strong><br/>
 <code>Power BI</code> <code>Excel</code> <code>Data Visualization</code>
 
 <br/><br/>
-<a href="https://github.com/sarishadeel206/POWERBI-DASHBOARD"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View Power BI Sales Dashboard"/></a>
+<a href="https://github.com/sarishadeel206/POWERBI-DASHBOARD">View repository →</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h2>🧬 Breast Cancer Prediction</h2>
+<h3>🧬 Breast Cancer Prediction System</h3>
 
-An SVM-based application that classifies tumours as benign or malignant, with data preprocessing and a Tkinter user interface.
+An SVM-based application that classifies tumours as benign or malignant, with data preprocessing and a Tkinter interface.
 
-<strong>TECHNOLOGIES</strong><br/>
 <code>Python</code> <code>SVM</code> <code>scikit-learn</code> <code>Tkinter</code>
 
 <br/><br/>
-<a href="https://github.com/sarishadeel206/Breast-Cancer-Prediction-using-Machine-Learning"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View Breast Cancer Prediction"/></a>
+<a href="https://github.com/sarishadeel206/Breast-Cancer-Prediction-using-Machine-Learning">View repository →</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h2>🥗 Health & Nutrition Analysis</h2>
+<h3>🥗 Health & Nutrition Data Analysis</h3>
 
 A Python notebook project focused on cleaning, exploring, and visualising food and nutrition data.
 
-<strong>TECHNOLOGIES</strong><br/>
 <code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>Jupyter</code>
 
 <br/><br/>
-<a href="https://github.com/sarishadeel206/Health-Nutrition-Data-Analysis"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View Health and Nutrition Analysis"/></a>
+<a href="https://github.com/sarishadeel206/Health-Nutrition-Data-Analysis">View repository →</a>
 
 </td>
 </tr>
